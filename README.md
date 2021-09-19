@@ -7,4 +7,4 @@
 - Definición de formulas
 - Implementación de formulas en JavaScript
 - Creación de funciones
--Integración de JS con HTML
+- Integración de JS con HTML
